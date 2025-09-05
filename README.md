@@ -17,7 +17,7 @@ Below you'll find a selection of my featured projects. 🚀
 
 🔹 **Real Estate Risk Estimation with Machine Learning (Lang: 🇪🇸)**  
 
-📘 **Final Degree Project – Computer Engineering & Mathematics**  
+📘 **Bachelor Thesis – Mathematics**  
 This project focuses on the application of **machine learning techniques** to estimate **financial risk metrics** such as Value at Risk (VaR) in the real estate sector.  
 The work combines statistical modeling, predictive algorithms, and neural networks to evaluate and forecast potential risks in investment portfolios.  
 
