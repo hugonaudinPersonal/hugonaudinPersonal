@@ -1,7 +1,7 @@
 # 👨‍💻 Hugo Naudin López – Portfolio  
 
 Hello! I'm **Hugo Naudin López**, a mathematician and final-year student in **Computer Science** at the University of Zaragoza.  
-I'm passionate about **machine learning, artificial intelligence, and applying mathematical modeling to real-world problems**, especially in the field of **finance and risk estimation**.  
+I'm passionate about **machine learning, artificial intelligence, and applying mathematical modeling to real-world problems**.
 
 Below you'll find a selection of my featured projects. 🚀  
 
