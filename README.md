@@ -23,7 +23,7 @@ The work combines statistical modeling, predictive algorithms, and neural networ
 
 **Technologies:** Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy  
 
-🔗 [GitHub Repository](https://github.com/hugonaudinlopez/Estimacion-Riesgo-Inmobiliario-ML)  
+🔗 [GitHub Repository](https://github.com/hugonaudinPersonal/Estimacion-Riesgo-Inmobiliario-ML)  
 
 ---
 
