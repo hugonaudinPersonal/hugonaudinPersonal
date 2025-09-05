@@ -1,38 +1,34 @@
-# 👋 Hola, soy Hugo Naudin López  
+# 👨‍💻 Hugo Naudin López – Portfolio  
 
-🎓 Estudiante del último curso del Doble Grado en **Ingeniería Informática y Matemáticas**  
-🤖 Apasionado por la **Inteligencia Artificial, Machine Learning y Ciencia de Datos**  
-📊 Interesado en **modelos predictivos**, optimización y aplicaciones en **finanzas y recomendación de productos**  
+Hello! I'm **Hugo Naudin López**, a mathematician and final-year student in **Computer Engineering** at the University of Zaragoza.  
+I'm passionate about **machine learning, artificial intelligence, and applying mathematical modeling to real-world problems**, especially in the field of **finance and risk estimation**.  
 
----
-
-## 🚀 Sobre mí
-- 💡 Me gusta crear soluciones digitales que mezclen **tecnología y datos**.  
-- 📚 He desarrollado proyectos de **redes neuronales para predicción de cuantiles y expectiles**, aplicados al riesgo financiero.  
-- 🧑‍💻 Estoy construyendo un **recomendador de productos con embeddings y FAISS**, integrado con modelos LLM.  
-- ☁️ Me interesa el despliegue de modelos en la nube (Google Cloud, Together AI, FastAPI).  
+Below you'll find a selection of my featured projects. 🚀  
 
 ---
 
-## 🛠️ Tecnologías y herramientas
-- **Lenguajes:** Python, C++, SQL, JavaScript (React + FastAPI).  
-- **IA/ML:** TensorFlow, Keras, Scikit-learn, PyTorch (básico).  
-- **Bases de datos:** PostgreSQL, FAISS.  
-- **Cloud & DevOps:** Google Cloud, Docker, GitHub Actions.  
+## 📫 Contact  
+- 🌐 [LinkedIn](https://www.linkedin.com/in/hugo-naudin/)  
+- 📧 Email: hugonaudin03@gmail.com  
 
 ---
 
-## 📌 Proyectos destacados
-- 📈 [Quantile Neural Network](#) → Redes neuronales para estimar cuantiles del riesgo financiero.  
-- 🔍 [Expectile Neural Network](#) → Modelos de expectiles con optimización aleatoria.  
-- 🛒 [Recomendador Outdoor](#) → Chatbot que recomienda productos de montaña con embeddings + LLM.  
+## 🌟 Featured Projects  
+
+🔹 **Real Estate Risk Estimation with Machine Learning (Lang: 🇪🇸)**  
+
+📘 **Final Degree Project – Computer Engineering & Mathematics**  
+This project focuses on the application of **machine learning techniques** to estimate **financial risk metrics** such as Value at Risk (VaR) in the real estate sector.  
+The work combines statistical modeling, predictive algorithms, and neural networks to evaluate and forecast potential risks in investment portfolios.  
+
+**Technologies:** Python, TensorFlow/Keras, Scikit-learn, Pandas, NumPy  
+
+🔗 [GitHub Repository](https://github.com/hugonaudinlopez/Estimacion-Riesgo-Inmobiliario-ML)  
 
 ---
 
-## 📫 Conecta conmigo
-- 🌐 [LinkedIn](#)  
-- 📧 hugonaudinlopez@gmail.com  
+## 👨‍🔬 About Me  
+I am a motivated and curious student with a strong background in **mathematics and computer science**.  
+I enjoy turning complex ideas into **working technological solutions**, and I’m especially interested in projects that combine **data, AI, and optimization**.  
 
----
-
-⭐️ *Siempre abierto a colaborar en proyectos de IA, datos y software.*
+Thanks for visiting my portfolio!  
